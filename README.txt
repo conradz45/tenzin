@@ -1,3 +1,3 @@
 This is my game!
 
-Don't copy it !
+Don't copy it!
