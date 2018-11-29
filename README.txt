@@ -1,3 +1,1 @@
-This is my game!
-
-Don't copy it!
+This is a Computer game I made when I was 14
